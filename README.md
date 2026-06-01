@@ -2,18 +2,11 @@
 
 ###
 
+<p align="center">I am a passionate Game Developer and Backend Programmer. I love exploring game engine architecture, building tools, and creating immersive gameplay experiences. <br><br>- 🔭 I’m currently working on core game mechanics and systems in **Godot 4**.<br>- 📚 I’m expanding my skills by learning **GDScript** to build scalable and high-performance game logic.<br>- 🎯 My goal is become good specialist on IT<br><br>  ## 🛠️ Tech Stack & Tools<br><br>  - **Game Engine:** Godot 4 (GDScript)<br>  - **Languages:** Python, Java, Lua, Kotlin, C#, GDScript<br>  - **Tools & OS:** Git, GitHub, Visual Studio Code, Linux, Windows<br><br>## 🗳️ Featured Projects<br>Check out my Spigot API plugins below to see how I handle OOP architecture, custom data containers, and pagination in Java!</p>
+
+###
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lostor-dev/Lostor-dev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Lostor-dev/Lostor-dev/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://tenor.com/ru/view/cat-cat-meme-fancy-fancy-cat-business-cat-gif-12827610436480750336"  />
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -31,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@LostorYT" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -45,11 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Lostor-dev/Lostor-dev/snake-output/snake.svg" alt="Snake animation" />
 
 ###
