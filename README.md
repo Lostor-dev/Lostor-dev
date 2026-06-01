@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Lostor 👋
 
-<!--
-**Lostor-dev/Lostor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Game Developer and Backend Programmer. I love exploring game engine architecture, building tools, and creating immersive gameplay experiences. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on core game mechanics and systems in **Godot 4**.
+- 📚 I’m expanding my skills by learning **GDScript** to build scalable and high-performance game logic.
+- 🎯 My goal is become good specialist on IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🛠️ Tech Stack & Tools
+
+  - **Game Engine:** Godot 4 (GDScript)
+  - **Languages:** Python, Java, Lua, Kotlin, C#, GDScript
+  - **Tools & OS:** Git, GitHub, Visual Studio Code, Linux, Windows
+
+## 🗳️ Featured Projects
+Check out my Spigot API plugins below to see how I handle OOP architecture, custom data containers, and pagination in Java!
